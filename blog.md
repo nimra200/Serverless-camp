@@ -1,7 +1,7 @@
-# [Replace this with your project title]
+# Serverless Camp
 
 ## About Me
-
+I am a student at UofT! I love cats <3 
 ## The Premise
 
 ## Tools used
