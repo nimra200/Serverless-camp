@@ -19,8 +19,8 @@ module.exports = async function (context, req) {
     context.res = {
         // status: 200, /* Defaults to 200 */
         body: {
-            cat1: {firstCat}, 
-            cat2: {secondCat},
+            cat1: firstCat, 
+            cat2: secondCat,
             names: [result_name(), result_name()]
         }
     };
